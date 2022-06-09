@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-test",
+  "version": "1.0.0",
+  "description": "Test using the github actions/toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extravio/github-actions-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extravio/github-actions-test/issues"
+  },
+  "homepage": "https://github.com/extravio/github-actions-test#readme",
+  "dependencies": {
+    "@actions/core": "^1.8.2",
+    "@actions/github": "^5.0.3"
+  }
+}
